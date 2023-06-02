@@ -6,17 +6,27 @@
     padding: 20px;
     display: flex;
     justify-content: space-between;
-    /* background-color: #111; */
+    /* background-color: #11111192; */
+    background-image: linear-gradient(0deg,transparent,rgba(37,37,37,.61),#111);
+
   
   }
   
   .logo{
   position: fixed;
   left: 20px;
-  width: 80px;
+  width: 100px;
   }
   .avatar{
   position: fixed;
   right: 20px;
   width: 30px;
+  }
+  .category{
+    margin-right: 30px;
+    color: white;
+  }
+  .user{
+    margin-right: 30px;
+    color: white;
   }
