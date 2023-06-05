@@ -15,7 +15,7 @@ function Navbar() {
         <h4 className='category'>Popular</h4>
         </div>
         <div style={{display:'flex',right:'80px',position:'fixed'}}>
-        <h4 className='user'>Ridin</h4>
+        <h4 className='user'>Goldfinger</h4>
         <FiBell style={{color:'white', paddingTop:'5px'}} />
         </div>
 
